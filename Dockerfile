@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 RUN apt update
-RUN apt install -y squid vim
+RUN apt install -y squid
 
 #COPY ./squid/squid.conf /etc/squid/squid.conf
 
