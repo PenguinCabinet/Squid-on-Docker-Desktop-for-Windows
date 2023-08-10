@@ -14,7 +14,8 @@ Docker Desktop for Windows上で動く、Squidです。
 
 3. squidディレクトリができるので、ご自由にsquid.confを書き換えてください
 
-4. Docker Desktop for Windowsをログイン時に自動起動するように設定しておく(推奨)
+4. Docker Desktop for Windowsをログイン時に自動起動するように設定しておく(推奨)       
+
 Docker Desktop for Windowsが起動していないと、このSquidコンテナも起動しないためです。
 
 5. Squidを起動
