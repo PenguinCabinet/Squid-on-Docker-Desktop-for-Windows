@@ -1,7 +1,7 @@
 # 🦑Squid on Docker Desktop for Windows🐋
 Docker Desktop for Windows上で動く、Squidです。
 
-# ℹ️使い方
+# ℹ️ 使い方
 1. ビルドしイメージを作成します
 ```
 .\build.bat
